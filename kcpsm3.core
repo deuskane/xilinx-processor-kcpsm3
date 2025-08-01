@@ -10,7 +10,7 @@ filesets:
   #---------------------------------------
   files_hdl:
     files     :
-      - src/kcpsm3.vhd
+      - hdl/kcpsm3.vhd
     file_type : vhdlSource
     depend    :
       - ">=xilinx:primitive:unisim:11.1"
